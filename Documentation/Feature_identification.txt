@@ -1,0 +1,19 @@
+### Important Features (Classification)
+1. From domain knowledge
+    a. Occupation_Category
+    b. Age
+    c. Dependent_count
+    d. Item_Category
+    e. Item_price 
+    f. Is_recurring
+    g. Self_reported_urgency
+    h. Replacement_Item
+
+### Important Features (Regression)
+1. From domain knowledge
+    a. Classification_output_probability
+    b. Item_price
+    c. Monthly_Disposable_Income (Income-fixed expense)
+    d. Saving_Buffer
+    e. Monthly_Savings_Goal_Percentage
+    f. Days_Until_Next_Paycheck
